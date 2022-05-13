@@ -1,3 +1,5 @@
+// https://www.codechef.com/problems/LUCKYFR
+
 #include <iostream>
 using namespace std;
 
